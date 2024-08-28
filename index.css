@@ -1,0 +1,21 @@
+header {
+    background-color: aqua;
+    color: rgb(185, 52, 52;
+    }
+
+    a {
+        color: rgb(185, 52, 52);
+    }
+
+
+    h1 {
+        position: fixed;
+        top: 5rem;
+        background-color: palevioletred;
+        width: 300px;
+    }
+
+    div {
+        background-color: blue;
+        width: 300px;
+    }

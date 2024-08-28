@@ -1,0 +1,24 @@
+div {
+    background-color: red;
+}
+
+p {
+    background-color: brown;
+}
+
+div+p {
+    background-color: yellow;
+    font-size: 30px
+}
+
+
+/*div>section {
+    background-color: rgb(190, 216, 216);
+    font-size: 20px;
+}
+*/
+div>span {
+    background-color: rgb(138, 45, 84);
+    text-align: center;
+    padding: 20px;
+}

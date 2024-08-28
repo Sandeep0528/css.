@@ -1,0 +1,33 @@
+div {
+    /*box-sizing: border-box;*/
+    background-color: black;
+    float: inline-end;
+    /*width: 400px;*/
+    /*padding: 0px;
+    /*border: 2px solid black;*/
+    /* display: inline-block;
+    /*margin: 100px 10px 10px 150px;*/
+}
+
+img {
+    width: 300px;
+}
+
+span {
+    /* background-color: blue;
+    /*padding: 0px;*/
+    /*margin-top: 100px !important;
+    display: inline-block;
+}*/
+
+    table {
+        background-color: aquamarine;
+        margin-top: 60px;
+        display: inline-block;
+    }
+
+    p {
+        background-color: rgba(0, 0, 0, 0.747);
+        color: white;
+        display: inline-block;
+    }

@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+h1 {
+    /*display: inline;*/
+    float: right;
+    background-color: blueviolet;
+    /* width: 250px;*/
+    color: antiquewhite;
+    border: 2px solid red;
+    padding: 40px 20px 30px 50px;
+    /* margin: 30px;
+*/
+
+
+}

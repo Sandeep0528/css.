@@ -1,0 +1,64 @@
+ .kalam {
+     background-color: rgb(190, 26, 26);
+     color: antiquewhite;
+     font-size: medium;
+ }
+
+
+
+ span {
+     background-color: chocolate;
+     color: lightgray;
+     font-size: x-small;
+ }
+
+
+
+ h1 {
+     background-color: black;
+     color: antiquewhite;
+     font-size: 70px;
+ }
+
+ h2 {
+     background-color: blue;
+     color: blueviolet;
+     font-size: 45px;
+ }
+
+ h3 {
+     background-color: yellowgreen;
+     color: lightcoral;
+     font-size: 33px;
+ }
+
+
+
+ h4 {
+     background-color: lightsalmon;
+     color: rgb(255, 0, 255);
+     font-size: 20px;
+ }
+
+
+
+ .apple {
+     background-color: rgb(38, 16, 16);
+     color: antiquewhite;
+     font-size: 80%;
+ }
+
+ /*#MSD {
+     background-color: aquamarine;
+     font-size: 50px;
+ }
+
+ #KEANu {
+     background-color: lightgreen;
+     font-size: 60px;
+ }
+
+ #Cena {
+     background-color: cornsilk;
+     font-size: 65px;
+ }
